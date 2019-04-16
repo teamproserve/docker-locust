@@ -13,6 +13,7 @@ RUN apt-get update \
       libxslt-dev \
       python \
       python-dev \
+      python-pyquery \
       python-setuptools \
       python-pip \
     && apt-get clean
